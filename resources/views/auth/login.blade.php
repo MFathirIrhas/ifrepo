@@ -52,7 +52,7 @@
       </div>
     </div>
     <div class="text-center">
-        <a href="/">Back To Home</a> --
+        <a href="/">Home</a> --
       <a href="register" >Don't have an account? Register</a>
     </div>
   </div>

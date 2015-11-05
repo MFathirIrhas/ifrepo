@@ -64,7 +64,7 @@
       </div>
     </div>
       <div class="text-center">
-        <a href="/">Back to Homepage</a> --
+        <a href="/">Home</a> --
           <a href="login">Login</a>
     </div>
   </div>

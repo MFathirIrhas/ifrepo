@@ -34,7 +34,7 @@
         </li>
           <li><a href="#">Repository</a></li>
           <li><a href="#">Forum</a></li>
-          <li><a href="#">About</a></li>
+          <li><a href="about">About</a></li>
       </ul>
       <form class="navbar-form navbar-left" role="search" id="1291960344">
         <div class="form-group">

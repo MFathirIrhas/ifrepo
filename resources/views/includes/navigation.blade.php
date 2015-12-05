@@ -1,5 +1,5 @@
 <!--Navigation-->
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<nav class="navbar navbar-default navbar-wrapper" >
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -34,7 +34,7 @@
         </li>
           <li><a href="#">Repository</a></li>
           <li><a href="#">Forum</a></li>
-          <li><a href="about">About</a></li>
+          <li><a href="#">About</a></li>
       </ul>
       <form class="navbar-form navbar-left" role="search" id="1291960344">
         <div class="form-group">

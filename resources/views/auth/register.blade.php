@@ -56,10 +56,6 @@
               </div>
             </div>
           </div>
-            
-            <div>
-                *Password must at least 8 characters with number.
-            </div>
 
           <input type="submit" value="Register" class="btn btn-info btn-block">
 

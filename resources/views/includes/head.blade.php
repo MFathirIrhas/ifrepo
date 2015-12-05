@@ -4,11 +4,10 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <title>If-Repo</title>
-<!--        <script src="js/bootstrap.js"></script>-->
+        <script src="js/bootstrap.js"></script>
+        <script src="js/bootstrap.min.js"></script>
         <!--<script src="js/jquery.js"></script>-->
         <script src="js/jquery-2.1.4.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
